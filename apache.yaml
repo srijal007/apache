@@ -1,6 +1,6 @@
 ---
 
-- hosts: web-servers
+- hosts: dbservers
 sudo: yes
 
 task:
